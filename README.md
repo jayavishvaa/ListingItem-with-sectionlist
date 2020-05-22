@@ -18,5 +18,11 @@ It includes
  
    1. **TickIcon** from import { AntDesign } from '@expo/vector-icons';
    
-   [click here](https://docs.expo.io/guides/icons/):point_left: for Expo Icons
+       [click here](https://docs.expo.io/guides/icons/):point_left: for Expo Icons
+   
+   2. **StarIcon** from import StarIcon from './components/starIcon';
+    
+       [click here](https://material-ui.com/de/components/icons/):point_left: for StarIcon
+       
+ ###
 
