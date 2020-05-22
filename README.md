@@ -13,3 +13,10 @@ It includes
 ### sectionlist
 
  Listed a set of events with nice margin and also listed a **StarIcon**:star: for each events.
+ 
+ ### Icons used
+ 
+   1. **TickIcon** from import { AntDesign } from '@expo/vector-icons';
+   
+   [click here](https://docs.expo.io/guides/icons/):point_left: for Expo Icons
+
