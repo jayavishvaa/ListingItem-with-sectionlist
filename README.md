@@ -26,7 +26,7 @@ It includes
        
 ### What exactly the code will output
 
-<p>Listing a set of Events with **StarIcon** where by pressing the StarIcon the Icon colour will turn into Yellow and in the Header Section there is a SelectAll option where by pressing it All the Icon colour in the list turns yellow </p> 
+*Listing* a set of Events with **StarIcon** where by pressing the StarIcon the Icon colour will turn into *Yellow* and in the Header Section there is a **SelectAll** option where by pressing it All the Icon colour in the list turns *yellow* and a **TickIcon** which will *alert* by pressing it.  
  
  
 
