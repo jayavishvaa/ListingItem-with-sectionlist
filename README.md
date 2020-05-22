@@ -14,7 +14,7 @@ It includes
 
  Listed a set of events with nice margin and also listed a **StarIcon**:star: for each events.
  
- ### Icons used
+### Icons used
  
    1. **TickIcon** from import { AntDesign } from '@expo/vector-icons';
    
@@ -24,5 +24,9 @@ It includes
     
        [click here](https://material-ui.com/de/components/icons/):point_left: for StarIcon
        
- ###
+### What exactly the code will output
+
+<p>Listing a set of Events with **StarIcon** where by pressing the StarIcon the Icon colour will turn into Yellow and in the Header Section there is a SelectAll option where by pressing it All the Icon colour in the list turns yellow </p> 
+ 
+ 
 
