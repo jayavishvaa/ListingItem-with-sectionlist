@@ -28,5 +28,7 @@ It includes
 
 *Listing* a set of Events with **StarIcon** where by pressing the StarIcon the Icon colour will turn into *Yellow* and in the Header Section there is a **SelectAll** option where by pressing it All the Icon colour in the list turns *yellow* and a **TickIcon** which will *alert* by pressing it.  
  
- 
+## Output of the App
+
+<img src="https://github.com/jayavishvaa/ListingItem-with-sectionlist/blob/master/trial-page(gif).gif" width="500" />
 
