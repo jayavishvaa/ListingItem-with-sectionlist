@@ -30,5 +30,5 @@ It includes
  
 ## Output of the App
 
-<img src="https://github.com/jayavishvaa/ListingItem-with-sectionlist/blob/master/trial-page(gif).gif" width="500" />
+<img src="https://github.com/jayavishvaa/ListingItem-with-sectionlist/blob/master/trial-page(gif).gif" width="500" justifycontent="center"/>
 
